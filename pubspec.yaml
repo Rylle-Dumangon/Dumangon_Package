@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  # Use Audioplayers dependency version 0.17.4
+  audioplayers: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +23,16 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+    - assets/avatar1.jpg
+    - assets/avatar2.jpg
+    - assets/avatar3.jpg
+    - assets/avatar4.jpg
+    - assets/audio1_en.wav
+    - assets/audio1_jp.wav
+    - assets/audio2_en.wav
+    - assets/audio2_jp.wav
+    - assets/audio3_en.wav
+    - assets/audio3_jp.wav
+    - assets/audio4_en.wav
+    - assets/audio4_jp.wav
